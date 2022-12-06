@@ -18,7 +18,7 @@ My name is Magdalena Stachura. I am master of Managerial Econometrics on field C
 * remigiuszbednarczyk.pl.pl
 * wyszkolewas.com.pl
 
-#IT groups on Facebook I follow
+# IT groups on Facebook I follow
 * Testowanie oprogramowania
 * Tester oprogramowania - wsparcie na starcie
 * Dare IT Community
