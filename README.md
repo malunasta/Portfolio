@@ -23,20 +23,16 @@ remigiuszbednarczyk.pl.pl
 wyszkolewas.com.pl
 
 #IT groups on Facebook I follow
-Testowanie oprogramowania
-Tester oprogramowania - wsparcie na starcie
-Dare IT Community
-Girls Who Tests
-Czy IT jest dla mnie?
+* Testowanie oprogramowania
+* Tester oprogramowania - wsparcie na starcie
+* Dare IT Community
+* Girls Who Tests
+
 
 #My projects
-Bugs
 
-Bug on electro.pl site LINK to bug
-Bugs on Ben and Jerry's UK site LINK to bugs
-Test cases
 
-Test cases for Mango site LINK to test cases
+
 
 
 
