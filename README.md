@@ -13,10 +13,10 @@ My name is Magdalena Stachura. I am master of Managerial Econometrics on field C
 * Zawód Tester - Radosław Smilgin
 
 # Blogs I read
-*testerzy.pl
-*testerka.pl
-*remigiuszbednarczyk.pl.pl
-*wyszkolewas.com.pl
+* testerzy.pl
+* testerka.pl
+* remigiuszbednarczyk.pl.pl
+* wyszkolewas.com.pl
 
 #IT groups on Facebook I follow
 * Testowanie oprogramowania
