@@ -13,8 +13,8 @@ My name is Magdalena Stachura. I am master of Managerial Econometrics on field C
 # Tools
 
 # Books
--Testowanie oprogramowiania - Piotr Wicherski
--Zawód Tester - Radosław Smilgin
+* Testowanie oprogramowiania - Piotr Wicherski
+* Zawód Tester - Radosław Smilgin
 
 # Blogs I read
 testerzy.pl
