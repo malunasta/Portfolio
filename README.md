@@ -28,6 +28,9 @@ My name is Magdalena Stachura. I am master of Managerial Econometrics on field C
 https://docs.google.com/document/d/14DQpddUriOFgDkTt-HQaHb17z2wzMHkBYm9m3mlgvLU/edit
 
 
+# My bug reports
+https://docs.google.com/document/d/1o_1JoK4-evRCQlDdMvlSXt9jIhnPwwuBMCS4E-b9-H4/edit
+
 
 
 
